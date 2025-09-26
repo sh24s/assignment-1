@@ -16,20 +16,18 @@ It showcases projects, skills, and contact information in a fun 8-bit style.
 - Clone the Repository
 - Folder Structure:
 super-shahad-portfolio/
-├── index.html
+├── index.html            # Main webpage
 ├── css/
-│   └── styles.css
+│   └── styles.css        # Styling (retro pixel theme)
 ├── js/
-│   └── script.js
+│   └── script.js         # Interactive behavior
 ├── assets/
-│   ├── images/
-│   │   ├── mario.jpeg
-│   │   ├── star.png
-│   │   ├── Block_svg.jpeg
-│   │   ├── to-do list.png
-│   │   └── timer.png
-│   └── sounds/
-│       └── mario_coin_sound.mp3
+│   ├── images/           # Backgrounds, blocks, screenshots
+│   └── sounds/           # Mario coin sound
+└── docs/
+    ├── ai-usage-report.md
+    └── technical-documentation.md
+
 
 - Run Locally: Simply open index.html in your browser.
 
